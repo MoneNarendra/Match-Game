@@ -1,0 +1,8 @@
+.inner-con {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-bg.png');
+  background-size: cover;
+  min-height: 100vh;
+  margin-top: 0px;
+}
+
+
